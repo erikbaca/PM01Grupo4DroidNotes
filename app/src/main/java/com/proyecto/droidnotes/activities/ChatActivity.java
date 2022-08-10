@@ -73,6 +73,7 @@ public class ChatActivity extends AppCompatActivity {
     String mExtraIdUser;
     String mExtraIdChat;
 
+
     UsersProvider mUsersProvider;
     AuthProvider mAuthProvider;
     ChatsProvider mChatsProvider;
